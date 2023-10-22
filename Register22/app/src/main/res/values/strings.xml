@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Register2</string>
+    <string name="first_name">\n</string>
+    <string name="last_name" />
+    <string name="gender" />
+    <string name="male">\n</string>
+</resources>
